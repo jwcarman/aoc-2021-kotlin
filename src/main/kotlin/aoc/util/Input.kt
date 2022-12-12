@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package adventofcode.util
+package aoc.util
 
 import java.io.File
 

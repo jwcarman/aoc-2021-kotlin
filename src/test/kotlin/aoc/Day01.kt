@@ -16,7 +16,7 @@
 
 package aoc
 
-import adventofcode.util.readAsString
+import aoc.util.readAsString
 import junit.framework.TestCase.assertEquals
 import org.junit.Test
 

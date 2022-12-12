@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package adventofcode.util
+package aoc.util
 
 fun String.removeAll(vararg strings: String): String {
     return strings.fold(this) { acc, s -> acc.replace(Regex(s), "") }
